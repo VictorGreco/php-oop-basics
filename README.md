@@ -147,7 +147,7 @@ In this file you will learn how to create and use namespaces.
 <div>Icons made by <a href="" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ---
-⌨️ whit ❤️ by for you 😊
+⌨️ whit ❤️ for you 😊
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
